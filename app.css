@@ -224,34 +224,6 @@ h1,h3,p,a,button{
     /*margin-right: -10px;*/
 }
 
-/*第五页*/
-/*.fivepage{*/
-/*    height: 730px;*/
-/*    width: 100%;*/
-/*    !*background-image: url("images/five-bg.jpg");*!*/
-/*    background-color: #5bc0de;*/
-/*}*/
-/*.fivepagetitle{*/
-/*    margin-top: 0px;*/
-/*    padding-top:  20px;*/
-/*    text-align: center;*/
-/*    color: #fff;*/
-/*}*/
-/*.fivepageimg{*/
-/*    !*width: 100%;*!*/
-/*    margin-top: 100px;*/
-/*}*/
-/*.fivepageimg .img1{*/
-/*    float:left;*/
-/*}*/
-/*.fivepagetext{*/
-/*    text-align: center;*/
-/*    margin-top: 500px;*/
-/*}*/
-/*.fivepagetext p{*/
-/*    margin-top: 30px;*/
-/*    color: #fff;*/
-/*}*/
 
 /*第五页*/
 .fivepage-bg{
